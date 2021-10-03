@@ -1,0 +1,19 @@
+﻿question|correct|other1|other2|other3
+Where is Mars? (counting from sun)|It’s the fourth planet.|It’s the first planet.|It’s the second planet.|It’s the third planet.
+When you are standing on Mars, how much do you weigh?|40% |5% of how much you weigh on Earth.|2 times|6 times 
+Why does Mars look red?|Its components make it look red.|It’s burning!|People who lived on Mars thousands of years ago fought together and their blood is still on its surface.|In fact, it’s green. Your eyes lie to you.
+Does Mars have any moon?|Yes.|No, it’s so lonely.|Nobody knows it.|Sometimes it has five, sometimes it doesn’t have any moon, it’s up to its mood.
+What is the distance between Earth and Earth?|500,000km ~ 400,000,000km. A far distance.|5km ~10km. It’s a walking distance.|2000km ~5000km. Maybe you need an airplane.|Larger than 1 lightyear. 
+Mars, which was named after one of the Roman Gods, which god is he?|The god of war.|The god of cuisine.|The god of sleepness.|The god of spacecraft.
+Do we need to wear a spacesuit on Mars?|Please always wear your spacesuit on Mars.|We don’t need to, just walk normally as you walk on Earth.|We don’t know yet, it requires more experiments.|It’s up to you.
+What are the 3 main radiation sources in space?|particles trapped in Earth’s magnetic field, solar energetic particles from the Sun, and galactic cosmic rays|hamburgers, pizzas and soft drinks|alien’s messages,  space junk and satellites|computers, cell phones and microwaves
+Which one of the following is NOT possible health issues under long-term radiation exposure?|rabies|heart disease|cancer|cataracts
+What is NOT the way to reduce the influences of radiation?|wearing masks|implement shielding}radiation monitoring|specific operational procedures|implement shielding
+How long is a Mars day?|24h 37m|9h 53m|58d 15h 30m|same as Earth
+Which one is NOT the possible consequences of living under an isolated and confined environment?|getting hungry easily|messy internal biological clocks|cognitive conditions|psychiatric disorders
+How can Actigraphy help astronauts' health?|assess and improve sleep and alertness by recording how much people move and how much ambient light is around them|monitor their heart rates and avoid them from heart diseases|sending messages to aliens|remind the astronaut to stay hydrated
+Which one is NOT an efficient way to avoid frustration on a spaceship?|eat|keep journeys|sleep|move around or exercise
+How long does communication delay from Earth to Mars?|3 - 21 minutes|2.4 to 2.7 seconds|33 - 53 minutes|5 hours
+What would happen when shifting from weightlessness to gravity?|post-flight orthostatic intolerance (lightheadedness and fainting)|feeling thirsty|the mass of you increased|getting blind
+Which one is NOT the potential health problems when living in a weightless or microgravity environment for a long time?|jump father|vision problems due to fluids in the body shifted upward to head and increase eye pressure|kidney stones due to dehydration and increase excretion of calcium|weight-bearing bones lose on average 1% to 1.5% of mineral density per month during spaceflight
+Which one is NOT the risks working under a closed environment such as a space station?|learn how to communicate with bacterias|micro-organisms are transferred more easily from person to person|stress hormone levels are elevated|increased susceptibility to allergies or other illnesses

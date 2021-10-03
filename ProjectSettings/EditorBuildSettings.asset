@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/enter.unity
+    guid: 4d949742803d28945bcc34de2459f365
+  - enabled: 1
+    path: Assets/Scenes/earth.unity
+    guid: 3940ac00561667d47bc8e1d72f40cdce
+  - enabled: 1
+    path: Assets/Scenes/door_space.unity
+    guid: f9fac8a64c339e2469742c1a268f906b
+  - enabled: 1
+    path: Assets/Scenes/mainn.unity
+    guid: 0c87cc1d1e3bd93429dcc684e10c6bd5
+  - enabled: 1
+    path: Assets/Scenes/mars_in.unity
+    guid: 18cd90651e62f4a4e89769d338ac9fde
+  - enabled: 1
+    path: Assets/Scenes/mars_out.unity
+    guid: 23158bd677e906b44bc18d604756895e
+  - enabled: 1
+    path: Assets/Scenes/tinygames.unity
+    guid: c69c6336cc04a014596f44b74746bf28
+  - enabled: 1
+    path: Assets/Scenes/paperscissorsstone.unity
+    guid: 7ea60527ceed7bd4e9bf0905440f0929
+  - enabled: 1
+    path: Assets/Scenes/cardgame.unity
+    guid: 8b02bb05c6a03944ba497132e90e8c4c
+  - enabled: 1
+    path: Assets/Scenes/quickquiz.unity
+    guid: 1b5afea5e0d984c41b2b4fb881a4c361
+  m_configObjects: {}
